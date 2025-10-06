@@ -265,7 +265,7 @@ plt.show()
 ```
 <img width="770" height="498" alt="image" src="https://github.com/user-attachments/assets/78e7b658-bc3b-4caa-ba94-b26dec47012b" />
 
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+     
 # RESULT:
   Thus the given data, Feature Encoding, Transformation process and save the data to a file
  was performed successfully
